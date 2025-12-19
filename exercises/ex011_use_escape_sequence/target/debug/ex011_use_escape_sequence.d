@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex011_use_escape_sequence/target/debug/ex011_use_escape_sequence: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex011_use_escape_sequence/src/main.rs
