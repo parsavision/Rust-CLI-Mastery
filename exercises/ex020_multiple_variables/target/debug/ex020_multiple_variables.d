@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex020_multiple_variables/target/debug/ex020_multiple_variables: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex020_multiple_variables/src/main.rs
