@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex012_add_indentation/target/debug/ex012_add_indentation: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex012_add_indentation/src/main.rs
