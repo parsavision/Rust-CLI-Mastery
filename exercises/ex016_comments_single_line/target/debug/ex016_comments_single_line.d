@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex016_comments_single_line/target/debug/ex016_comments_single_line: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex016_comments_single_line/src/main.rs
