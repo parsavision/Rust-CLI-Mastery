@@ -82,7 +82,7 @@ A complete learning path for building command-line applications in Rust, designe
 **Concept:** Compiled programs are standalone
 **Help:** On Windows, use .exe extension
 
-**Exercise 11: Print Special Characters**
+**Exercise 11: Print Special Characters**✅
 **Goal:** Use escape sequences
 **Task:** Print "Hello\nWorld" to get two lines
 **Concept:** \n for newline
