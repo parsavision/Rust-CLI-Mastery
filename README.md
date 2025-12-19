@@ -102,25 +102,25 @@ A complete learning path for building command-line applications in Rust, designe
 - **Concept:** \" for literal quotes
 - **Help:** `println!("He said \"Hello\"");`
 
-### Exercise 14: Print Backslash 
+### Exercise 14: Print Backslash ✅
 - **Goal:** Show backslash character
 - **Task:** Print a single \
 - **Concept:** \\ for literal backslash
 - **Help:** Need to escape the escape character!
 
-### Exercise 15: Unicode Characters ⭐
+### Exercise 15: Unicode Characters ✅⭐
 - **Goal:** Print emojis and symbols
 - **Task:** Print "🦀 Rust" using Unicode
 - **Concept:** Rust supports Unicode by default
 - **Help:** Just type or paste the emoji
 
-### Exercise 16: Comments - Single Line 
+### Exercise 16: Comments - Single Line ✅
 - **Goal:** Add notes to your code
 - **Task:** Add // comments explaining each println!
 - **Concept:** // starts a comment
 - **Help:** Compiler ignores everything after //
 
-### Exercise 17: Comments - Multi Line 
+### Exercise 17: Comments - Multi Line ✅
 - **Goal:** Write longer comments
 - **Task:** Use /* */ for a paragraph comment
 - **Concept:** Block comments
