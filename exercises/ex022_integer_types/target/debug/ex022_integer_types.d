@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex022_integer_types/target/debug/ex022_integer_types: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex022_integer_types/src/main.rs
