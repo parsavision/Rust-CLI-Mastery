@@ -88,13 +88,13 @@ A complete learning path for building command-line applications in Rust, designe
 **Concept:** \n for newline
 **Help:** Backslash starts special characters
 
-**Exercise 12: Tab Character**
+**Exercise 12: Tab Character**✅
 **Goal:** Add indentation
 **Task:** Use \t for tab spacing
 **Concept:** \t for tab
 **Help:** Creates horizontal space
 
-**Exercise 13: Print Quotes**
+**Exercise 13: Print Quotes**✅
 **Goal:** Show quote marks in output
 **Task:** Print: He said "Hello"
 **Concept:** \" for literal quotes
