@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex019_print_variables/target/debug/ex019_print_variables: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex019_print_variables/src/main.rs
