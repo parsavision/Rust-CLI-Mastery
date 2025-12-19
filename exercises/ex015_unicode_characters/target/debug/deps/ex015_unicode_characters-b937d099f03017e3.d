@@ -1,0 +1,5 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex015_unicode_characters/target/debug/deps/ex015_unicode_characters-b937d099f03017e3.d: src/main.rs
+
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex015_unicode_characters/target/debug/deps/libex015_unicode_characters-b937d099f03017e3.rmeta: src/main.rs
+
+src/main.rs:

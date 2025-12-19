@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex015_unicode_characters/target/debug/ex015_unicode_characters: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex015_unicode_characters/src/main.rs
