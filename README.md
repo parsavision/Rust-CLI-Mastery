@@ -126,25 +126,25 @@ A complete learning path for building command-line applications in Rust, designe
 - **Concept:** Block comments
 - **Help:** Everything between /* and */ is ignored
 
-### Exercise 18: First Variable ⭐
+### Exercise 18: First Variable ⭐✅
 - **Goal:** Store a value
 - **Task:** `let x = 5;` then print x
 - **Concept:** Variable declaration with let
 - **Help:** Variables hold data for later use
 
-### Exercise 19: Print Variable 
+### Exercise 19: Print Variable ✅
 - **Goal:** Display variable value
 - **Task:** Use {} placeholder for variable
 - **Concept:** String formatting with {}
 - **Help:** `println!("x is {}", x);`
 
-### Exercise 20: Multiple Variables 
+### Exercise 20: Multiple Variables ✅
 - **Goal:** Work with several values
 - **Task:** Create 3 variables, print all three
 - **Concept:** Multiple variable declarations
 - **Help:** Each needs its own let statement
 
-### Exercise 21: Variable Naming Rules 
+### Exercise 21: Variable Naming Rules ✅
 - **Goal:** Understand valid names
 - **Task:** Try names like my_var, _private, var123
 - **Concept:** Snake_case convention
