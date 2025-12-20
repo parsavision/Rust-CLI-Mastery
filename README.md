@@ -150,7 +150,7 @@ A complete learning path for building command-line applications in Rust, designe
 - **Concept:** Snake_case convention
 - **Help:** Letters, numbers, underscores only; must start with letter or _
 
-### Exercise 22: Integer Types ⭐
+### Exercise 22: Integer Types ⭐✅
 - **Goal:** Work with whole numbers
 - **Task:** Create `let age: i32 = 25;`
 - **Concept:** Type annotation with i32
@@ -332,19 +332,19 @@ A complete learning path for building command-line applications in Rust, designe
 
 ### Week 2: Getting User Input
 
-### Exercise 51: Import Statement ⭐
+### Exercise 51: Import Statement ⭐✅
 - **Goal:** Bring in standard library code
 - **Task:** Add `use std::io;` at top
 - **Concept:** Using standard library modules
 - **Help:** io module handles input/output
 
-### Exercise 52: Create Empty String 
+### Exercise 52: Create Empty String ✅
 - **Goal:** Prepare for input
 - **Task:** `let mut input = String::new();`
 - **Concept:** String::new() creates empty String
 - **Help:** Need mut because we'll change it
 
-### Exercise 53: Read Input ⭐
+### Exercise 53: Read Input ⭐✅
 - **Goal:** Get text from user
 - **Task:** `io::stdin().read_line(&mut input)`
 - **Concept:** stdin() for standard input
