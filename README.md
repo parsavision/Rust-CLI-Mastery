@@ -386,19 +386,19 @@ A complete learning path for building command-line applications in Rust, designe
 - **Concept:** Standard input template
 - **Practice:** This is your input template!
 
-### Exercise 60: Parse String to Number 
+### Exercise 60: Parse String to Number ✅
 - **Goal:** Convert text to integer
 - **Task:** `.parse::<i32>()`
 - **Concept:** Type conversion with parse
 - **Help:** Turbofish ::<i32> specifies target type
 
-### Exercise 61: Handle Parse Errors ⭐
+### Exercise 61: Handle Parse Errors ⭐✅
 - **Goal:** Deal with invalid input
 - **Task:** Use `.expect()` on parse result
 - **Concept:** parse() returns Result
 - **Help:** Will crash if user enters non-number
 
-### Exercise 62: Get Number from User 
+### Exercise 62: Get Number from User ✅
 - **Goal:** Complete number input
 - **Task:** Prompt, read, trim, parse, expect
 - **Concept:** Number input pattern
