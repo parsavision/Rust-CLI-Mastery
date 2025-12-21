@@ -404,49 +404,49 @@ A complete learning path for building command-line applications in Rust, designe
 - **Concept:** Number input pattern
 - **Template:** Your second common template!
 
-### Exercise 63: Use User Number 
+### Exercise 63: Use User Number ✅
 - **Goal:** Calculate with input
 - **Task:** Get number, double it, print result
 - **Concept:** Combining input and operations
 - **Help:** `let num = input.trim().parse::<i32>().expect(...);`
 
-### Exercise 64: Two Inputs 
+### Exercise 64: Two Inputs ✅
 - **Goal:** Get multiple values
 - **Task:** Get two numbers from user
 - **Concept:** Multiple input statements
 - **Help:** Need separate String for each, or reuse
 
-### Exercise 65: Reuse Input String 
+### Exercise 65: Reuse Input String ✅
 - **Goal:** Efficient input handling
 - **Task:** Clear and reuse same String variable
 - **Concept:** .clear() method on String
 - **Help:** `input.clear();` before second read_line
 
-### Exercise 66: Simple Calculator Input ⭐
+### Exercise 66: Simple Calculator Input ⭐✅
 - **Goal:** Get two numbers, add them
 - **Task:** Build basic addition program
 - **Concept:** Multi-step user interaction
 - **Practice:** Combines multiple concepts
 
-### Exercise 67: Format Output Nicely 
+### Exercise 67: Format Output Nicely ✅
 - **Goal:** User-friendly results
 - **Task:** Print "{} + {} = {}"
 - **Concept:** Multiple placeholders
 - **Help:** Makes output readable
 
-### Exercise 68: Get User's Name 
+### Exercise 68: Get User's Name ✅
 - **Goal:** String input handling
 - **Task:** Ask name, greet personally
 - **Concept:** String input (no parsing needed)
 - **Help:** Just trim, don't parse
 
-### Exercise 69: Multiline Prompt 
+### Exercise 69: Multiline Prompt ✅
 - **Goal:** Clear instructions
 - **Task:** Print menu of options before input
 - **Concept:** Better user experience
 - **Help:** Multiple println! for instructions
 
-### Exercise 70: Input Validation Message 
+### Exercise 70: Input Validation Message ✅
 - **Goal:** Better error messages
 - **Task:** Custom expect message for parse errors
 - **Concept:** Helpful error text
