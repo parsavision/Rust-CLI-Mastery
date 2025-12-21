@@ -1,0 +1,6 @@
+[package]
+name = "ex060_parse_string_to_number"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

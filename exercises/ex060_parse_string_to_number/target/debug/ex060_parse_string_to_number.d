@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex060_parse_string_to_number/target/debug/ex060_parse_string_to_number: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex060_parse_string_to_number/src/main.rs
