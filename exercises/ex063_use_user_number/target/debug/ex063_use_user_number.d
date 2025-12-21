@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex063_use_user_number/target/debug/ex063_use_user_number: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex063_use_user_number/src/main.rs
