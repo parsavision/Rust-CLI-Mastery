@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex072_character_input/target/debug/ex072_character_input: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex072_character_input/src/main.rs
