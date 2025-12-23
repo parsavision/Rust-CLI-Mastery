@@ -452,7 +452,7 @@ A complete learning path for building command-line applications in Rust, designe
 - **Concept:** Helpful error text
 - **Help:** "Please enter a valid number!"
 
-### Exercise 71: Boolean from String 
+### Exercise 71: Boolean from String ✅
 - **Goal:** Parse true/false
 - **Task:** Parse "true" or "false" to bool
 - **Concept:** parse() works for bool too
