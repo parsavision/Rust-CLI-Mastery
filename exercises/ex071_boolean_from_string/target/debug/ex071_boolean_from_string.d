@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex071_boolean_from_string/target/debug/ex071_boolean_from_string: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex071_boolean_from_string/src/main.rs
