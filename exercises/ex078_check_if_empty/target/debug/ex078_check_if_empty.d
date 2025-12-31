@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex078_check_if_empty/target/debug/ex078_check_if_empty: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex078_check_if_empty/src/main.rs
