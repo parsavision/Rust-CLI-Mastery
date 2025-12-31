@@ -458,25 +458,25 @@ A complete learning path for building command-line applications in Rust, designe
 - **Concept:** parse() works for bool too
 - **Help:** User must type "true" or "false" exactly
 
-### Exercise 72: Character Input 
+### Exercise 72: Character Input ✅
 - **Goal:** Get single character
 - **Task:** Get first char of input with `.chars().next()`
 - **Concept:** Character extraction
 - **Help:** Returns Option<char>
 
-### Exercise 73: Unwrap Option 
+### Exercise 73: Unwrap Option ✅
 - **Goal:** Handle Option type
 - **Task:** Use `.unwrap()` on char result
 - **Concept:** unwrap() gets value from Some
 - **Warning:** Panics on None!
 
-### Exercise 74: Default with unwrap_or 
+### Exercise 74: Default with unwrap_or ✅
 - **Goal:** Safe Option handling
 - **Task:** Use `.unwrap_or('?')` for default
 - **Concept:** Fallback values
 - **Help:** Returns default if None
 
-### Exercise 75: Compare User Input ⭐
+### Exercise 75: Compare User Input ⭐✅
 - **Goal:** Make decisions on input
 - **Task:** If user enters "yes", print "Great!"
 - **Concept:** String comparison
