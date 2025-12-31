@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex075_compare_user_input/target/debug/ex075_compare_user_input: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex075_compare_user_input/src/main.rs
