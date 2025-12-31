@@ -482,19 +482,19 @@ A complete learning path for building command-line applications in Rust, designe
 - **Concept:** String comparison
 - **Help:** `if input.trim() == "yes"`
 
-### Exercise 76: Case-Insensitive Compare 
+### Exercise 76: Case-Insensitive Compare ✅
 - **Goal:** Accept YES, Yes, yes
 - **Task:** Convert to lowercase before comparing
 - **Concept:** `.to_lowercase()` method
 - **Help:** Makes comparison flexible
 
-### Exercise 77: Check String Length 
+### Exercise 77: Check String Length ✅
 - **Goal:** Validate input size
 - **Task:** If input too short, print error
 - **Concept:** `.len()` for strings
 - **Help:** Check before using input
 
-### Exercise 78: Check if Empty 
+### Exercise 78: Check if Empty ✅
 - **Goal:** Detect no input
 - **Task:** Use `.is_empty()` method
 - **Concept:** Boolean methods
