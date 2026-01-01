@@ -500,13 +500,13 @@ A complete learning path for building command-line applications in Rust, designe
 - **Concept:** Boolean methods
 - **Help:** Returns true if length is 0
 
-### Exercise 79: Concatenate Strings ⭐
+### Exercise 79: Concatenate Strings ⭐✅
 - **Goal:** Combine text
 - **Task:** Join user input with "Hello, "
 - **Concept:** format! macro for concatenation
 - **Help:** `format!("Hello, {}", name)`
 
-### Exercise 80: Password Input Simulation 
+### Exercise 80: Password Input Simulation ✅
 - **Goal:** Get sensitive input
 - **Task:** Read password (will be visible for now)
 - **Concept:** Same as normal input
