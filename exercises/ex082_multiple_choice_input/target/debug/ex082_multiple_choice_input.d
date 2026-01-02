@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex082_multiple_choice_input/target/debug/ex082_multiple_choice_input: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex082_multiple_choice_input/src/main.rs
