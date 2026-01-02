@@ -512,13 +512,13 @@ A complete learning path for building command-line applications in Rust, designe
 - **Concept:** Same as normal input
 - **Note:** Real apps use special libraries for hidden input
 
-### Exercise 81: Repeat Until Valid 
+### Exercise 81: Repeat Until Valid ✅
 - **Goal:** Loop for valid input
 - **Task:** Keep asking until number is positive
 - **Concept:** Validation loops (preview)
 - **Help:** Will learn proper loops in Phase 4
 
-### Exercise 82: Multiple Choice Input 
+### Exercise 82: Multiple Choice Input ✅
 - **Goal:** Get selection from options
 - **Task:** Present choices 1-3, get number
 - **Concept:** Menu-driven input
