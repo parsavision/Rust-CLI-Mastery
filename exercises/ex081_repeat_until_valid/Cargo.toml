@@ -1,0 +1,6 @@
+[package]
+name = "ex081_repeat_until_valid"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
