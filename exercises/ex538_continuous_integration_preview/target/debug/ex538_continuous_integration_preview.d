@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex538_continuous_integration_preview/target/debug/ex538_continuous_integration_preview: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex538_continuous_integration_preview/src/main.rs

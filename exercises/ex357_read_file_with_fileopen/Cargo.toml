@@ -1,0 +1,6 @@
+[package]
+name = "ex357_read_file_with_fileopen"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

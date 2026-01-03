@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex533_test_naming_convention/target/debug/ex533_test_naming_convention: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex533_test_naming_convention/src/main.rs

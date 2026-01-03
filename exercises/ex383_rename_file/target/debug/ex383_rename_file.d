@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex383_rename_file/target/debug/ex383_rename_file: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex383_rename_file/src/main.rs

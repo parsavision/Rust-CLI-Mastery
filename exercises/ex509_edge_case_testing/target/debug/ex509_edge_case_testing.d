@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex509_edge_case_testing/target/debug/ex509_edge_case_testing: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex509_edge_case_testing/src/main.rs

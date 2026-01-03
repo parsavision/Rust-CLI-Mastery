@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex262_function_borrowing/target/debug/ex262_function_borrowing: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex262_function_borrowing/src/main.rs

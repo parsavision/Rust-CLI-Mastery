@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex357_read_file_with_fileopen/target/debug/ex357_read_file_with_fileopen: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex357_read_file_with_fileopen/src/main.rs

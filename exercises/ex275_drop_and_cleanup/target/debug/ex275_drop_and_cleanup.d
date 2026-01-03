@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex275_drop_and_cleanup/target/debug/ex275_drop_and_cleanup: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex275_drop_and_cleanup/src/main.rs

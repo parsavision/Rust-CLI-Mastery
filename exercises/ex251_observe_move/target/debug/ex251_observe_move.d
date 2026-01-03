@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex251_observe_move/target/debug/ex251_observe_move: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex251_observe_move/src/main.rs

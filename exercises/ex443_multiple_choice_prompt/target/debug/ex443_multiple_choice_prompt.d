@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex443_multiple_choice_prompt/target/debug/ex443_multiple_choice_prompt: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex443_multiple_choice_prompt/src/main.rs

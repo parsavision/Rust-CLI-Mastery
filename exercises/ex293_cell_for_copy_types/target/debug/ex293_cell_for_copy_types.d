@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex293_cell_for_copy_types/target/debug/ex293_cell_for_copy_types: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex293_cell_for_copy_types/src/main.rs

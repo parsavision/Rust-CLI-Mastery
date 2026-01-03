@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex279_collect_and_ownership/target/debug/ex279_collect_and_ownership: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex279_collect_and_ownership/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex159_not_operator/target/debug/ex159_not_operator: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex159_not_operator/src/main.rs

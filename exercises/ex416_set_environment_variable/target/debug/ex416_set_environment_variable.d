@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex416_set_environment_variable/target/debug/ex416_set_environment_variable: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex416_set_environment_variable/src/main.rs

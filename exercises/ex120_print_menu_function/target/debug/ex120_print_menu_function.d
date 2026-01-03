@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex120_print_menu_function/target/debug/ex120_print_menu_function: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex120_print_menu_function/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex138_count_vowels/target/debug/ex138_count_vowels: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex138_count_vowels/src/main.rs

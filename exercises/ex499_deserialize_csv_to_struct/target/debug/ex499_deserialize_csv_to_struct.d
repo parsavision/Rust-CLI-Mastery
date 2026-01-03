@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex499_deserialize_csv_to_struct/target/debug/ex499_deserialize_csv_to_struct: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex499_deserialize_csv_to_struct/src/main.rs

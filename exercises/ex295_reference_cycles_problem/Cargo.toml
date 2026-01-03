@@ -1,0 +1,6 @@
+[package]
+name = "ex295_reference_cycles_problem"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

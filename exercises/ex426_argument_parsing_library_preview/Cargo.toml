@@ -1,0 +1,6 @@
+[package]
+name = "ex426_argument_parsing_library_preview"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

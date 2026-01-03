@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex130_reverse_number/target/debug/ex130_reverse_number: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex130_reverse_number/src/main.rs

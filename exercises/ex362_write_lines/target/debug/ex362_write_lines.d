@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex362_write_lines/target/debug/ex362_write_lines: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex362_write_lines/src/main.rs

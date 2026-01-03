@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex374_loop_through_directory/target/debug/ex374_loop_through_directory: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex374_loop_through_directory/src/main.rs

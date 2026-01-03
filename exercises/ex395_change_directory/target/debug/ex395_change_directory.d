@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex395_change_directory/target/debug/ex395_change_directory: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex395_change_directory/src/main.rs

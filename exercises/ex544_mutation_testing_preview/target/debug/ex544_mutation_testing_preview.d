@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex544_mutation_testing_preview/target/debug/ex544_mutation_testing_preview: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex544_mutation_testing_preview/src/main.rs

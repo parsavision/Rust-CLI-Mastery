@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex211_average_of_array/target/debug/ex211_average_of_array: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex211_average_of_array/src/main.rs

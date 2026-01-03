@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex516_ignore_tests/target/debug/ex516_ignore_tests: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex516_ignore_tests/src/main.rs

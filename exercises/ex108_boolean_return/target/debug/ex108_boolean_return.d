@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex108_boolean_return/target/debug/ex108_boolean_return: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex108_boolean_return/src/main.rs

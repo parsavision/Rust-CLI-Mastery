@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex421_stderr_vs_stdout/target/debug/ex421_stderr_vs_stdout: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex421_stderr_vs_stdout/src/main.rs

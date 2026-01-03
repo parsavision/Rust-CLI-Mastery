@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex165_grade_calculator/target/debug/ex165_grade_calculator: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex165_grade_calculator/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex369_get_file_name/target/debug/ex369_get_file_name: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex369_get_file_name/src/main.rs

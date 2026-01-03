@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex228_safe_access_with_get/target/debug/ex228_safe_access_with_get: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex228_safe_access_with_get/src/main.rs

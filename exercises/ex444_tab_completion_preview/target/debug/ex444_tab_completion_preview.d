@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex444_tab_completion_preview/target/debug/ex444_tab_completion_preview: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex444_tab_completion_preview/src/main.rs

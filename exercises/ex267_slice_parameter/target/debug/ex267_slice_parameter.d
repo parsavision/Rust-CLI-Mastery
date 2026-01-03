@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex267_slice_parameter/target/debug/ex267_slice_parameter: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex267_slice_parameter/src/main.rs

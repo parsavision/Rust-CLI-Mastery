@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex415_environment_variables/target/debug/ex415_environment_variables: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex415_environment_variables/src/main.rs

@@ -1,0 +1,6 @@
+[package]
+name = "ex263_modify_via_borrow"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

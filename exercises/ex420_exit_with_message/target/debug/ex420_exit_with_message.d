@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex420_exit_with_message/target/debug/ex420_exit_with_message: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex420_exit_with_message/src/main.rs

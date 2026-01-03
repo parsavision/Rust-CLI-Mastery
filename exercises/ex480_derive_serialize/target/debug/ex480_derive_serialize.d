@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex480_derive_serialize/target/debug/ex480_derive_serialize: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex480_derive_serialize/src/main.rs

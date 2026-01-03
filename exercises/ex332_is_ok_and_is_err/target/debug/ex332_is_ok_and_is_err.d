@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex332_is_ok_and_is_err/target/debug/ex332_is_ok_and_is_err: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex332_is_ok_and_is_err/src/main.rs

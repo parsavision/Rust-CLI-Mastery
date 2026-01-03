@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex117_function_for_input/target/debug/ex117_function_for_input: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex117_function_for_input/src/main.rs

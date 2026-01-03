@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex532_regression_testing/target/debug/ex532_regression_testing: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex532_regression_testing/src/main.rs

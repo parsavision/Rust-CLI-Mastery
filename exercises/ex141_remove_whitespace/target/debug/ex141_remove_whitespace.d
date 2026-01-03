@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex141_remove_whitespace/target/debug/ex141_remove_whitespace: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex141_remove_whitespace/src/main.rs

@@ -1,0 +1,6 @@
+[package]
+name = "ex103_function_with_parameter"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

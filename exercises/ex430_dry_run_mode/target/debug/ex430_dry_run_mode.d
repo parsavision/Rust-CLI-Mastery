@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex430_dry_run_mode/target/debug/ex430_dry_run_mode: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex430_dry_run_mode/src/main.rs

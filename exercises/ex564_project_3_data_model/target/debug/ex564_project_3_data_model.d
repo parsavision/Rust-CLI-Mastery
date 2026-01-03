@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex564_project_3_data_model/target/debug/ex564_project_3_data_model: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex564_project_3_data_model/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex202_array_type_annotation/target/debug/ex202_array_type_annotation: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex202_array_type_annotation/src/main.rs

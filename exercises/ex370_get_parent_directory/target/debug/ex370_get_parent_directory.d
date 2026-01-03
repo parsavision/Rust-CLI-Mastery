@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex370_get_parent_directory/target/debug/ex370_get_parent_directory: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex370_get_parent_directory/src/main.rs

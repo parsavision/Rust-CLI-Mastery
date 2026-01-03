@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex246_split_vector/target/debug/ex246_split_vector: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex246_split_vector/src/main.rs

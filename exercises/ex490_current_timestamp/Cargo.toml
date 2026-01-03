@@ -1,0 +1,6 @@
+[package]
+name = "ex490_current_timestamp"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

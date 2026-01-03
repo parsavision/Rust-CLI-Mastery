@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex181_for_loop_with_range/target/debug/ex181_for_loop_with_range: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex181_for_loop_with_range/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex291_weak_references/target/debug/ex291_weak_references: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex291_weak_references/src/main.rs

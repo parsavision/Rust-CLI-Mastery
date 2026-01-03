@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex091_format_numbers/target/debug/ex091_format_numbers: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex091_format_numbers/src/main.rs

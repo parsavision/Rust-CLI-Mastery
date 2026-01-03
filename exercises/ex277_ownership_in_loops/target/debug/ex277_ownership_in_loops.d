@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex277_ownership_in_loops/target/debug/ex277_ownership_in_loops: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex277_ownership_in_loops/src/main.rs

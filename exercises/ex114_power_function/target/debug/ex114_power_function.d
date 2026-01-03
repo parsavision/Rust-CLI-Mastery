@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex114_power_function/target/debug/ex114_power_function: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex114_power_function/src/main.rs

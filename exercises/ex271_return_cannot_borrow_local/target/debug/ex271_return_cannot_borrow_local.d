@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex271_return_cannot_borrow_local/target/debug/ex271_return_cannot_borrow_local: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex271_return_cannot_borrow_local/src/main.rs

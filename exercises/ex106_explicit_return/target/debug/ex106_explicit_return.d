@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex106_explicit_return/target/debug/ex106_explicit_return: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex106_explicit_return/src/main.rs

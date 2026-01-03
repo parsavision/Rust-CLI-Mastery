@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex534_test_comments/target/debug/ex534_test_comments: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex534_test_comments/src/main.rs

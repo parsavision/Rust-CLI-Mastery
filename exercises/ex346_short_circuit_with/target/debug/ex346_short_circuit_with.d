@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex346_short_circuit_with/target/debug/ex346_short_circuit_with: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex346_short_circuit_with/src/main.rs

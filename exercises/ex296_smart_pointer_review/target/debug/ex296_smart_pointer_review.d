@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex296_smart_pointer_review/target/debug/ex296_smart_pointer_review: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex296_smart_pointer_review/src/main.rs

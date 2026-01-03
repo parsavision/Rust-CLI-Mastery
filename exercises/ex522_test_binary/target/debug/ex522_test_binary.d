@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex522_test_binary/target/debug/ex522_test_binary: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex522_test_binary/src/main.rs

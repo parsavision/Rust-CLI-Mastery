@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex347_validation_function/target/debug/ex347_validation_function: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex347_validation_function/src/main.rs

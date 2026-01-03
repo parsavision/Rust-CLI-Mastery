@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex424_help_subcommand/target/debug/ex424_help_subcommand: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex424_help_subcommand/src/main.rs

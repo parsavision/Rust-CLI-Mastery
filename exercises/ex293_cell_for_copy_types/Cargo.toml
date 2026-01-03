@@ -1,0 +1,6 @@
+[package]
+name = "ex293_cell_for_copy_types"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

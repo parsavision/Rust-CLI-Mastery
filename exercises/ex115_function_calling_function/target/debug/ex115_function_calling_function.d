@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex115_function_calling_function/target/debug/ex115_function_calling_function: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex115_function_calling_function/src/main.rs

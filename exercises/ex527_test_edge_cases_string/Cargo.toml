@@ -1,0 +1,6 @@
+[package]
+name = "ex527_test_edge_cases_string"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

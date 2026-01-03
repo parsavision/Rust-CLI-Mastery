@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex373_list_directory_contents/target/debug/ex373_list_directory_contents: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex373_list_directory_contents/src/main.rs

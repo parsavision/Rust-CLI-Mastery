@@ -1,0 +1,6 @@
+[package]
+name = "ex464_clap_help_generation"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex402_get_program_arguments/target/debug/ex402_get_program_arguments: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex402_get_program_arguments/src/main.rs

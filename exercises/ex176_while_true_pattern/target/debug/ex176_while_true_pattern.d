@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex176_while_true_pattern/target/debug/ex176_while_true_pattern: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex176_while_true_pattern/src/main.rs

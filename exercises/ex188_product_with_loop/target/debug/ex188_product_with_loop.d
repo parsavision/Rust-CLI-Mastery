@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex188_product_with_loop/target/debug/ex188_product_with_loop: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex188_product_with_loop/src/main.rs

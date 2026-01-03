@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex290_rcrefcellt_pattern/target/debug/ex290_rcrefcellt_pattern: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex290_rcrefcellt_pattern/src/main.rs

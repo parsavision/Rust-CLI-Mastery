@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex558_logging_strategy/target/debug/ex558_logging_strategy: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex558_logging_strategy/src/main.rs

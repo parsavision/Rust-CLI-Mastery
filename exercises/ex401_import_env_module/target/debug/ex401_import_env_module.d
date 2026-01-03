@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex401_import_env_module/target/debug/ex401_import_env_module: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex401_import_env_module/src/main.rs

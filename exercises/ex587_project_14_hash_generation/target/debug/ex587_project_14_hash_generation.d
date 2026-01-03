@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex587_project_14_hash_generation/target/debug/ex587_project_14_hash_generation: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex587_project_14_hash_generation/src/main.rs

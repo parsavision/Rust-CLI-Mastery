@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex493_time_arithmetic/target/debug/ex493_time_arithmetic: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex493_time_arithmetic/src/main.rs

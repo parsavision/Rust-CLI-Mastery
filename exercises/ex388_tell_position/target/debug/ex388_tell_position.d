@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex388_tell_position/target/debug/ex388_tell_position: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex388_tell_position/src/main.rs

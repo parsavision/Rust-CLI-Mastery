@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex236_enumerate_vector/target/debug/ex236_enumerate_vector: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex236_enumerate_vector/src/main.rs

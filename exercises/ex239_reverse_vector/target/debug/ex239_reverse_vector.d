@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex239_reverse_vector/target/debug/ex239_reverse_vector: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex239_reverse_vector/src/main.rs

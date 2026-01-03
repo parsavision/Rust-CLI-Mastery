@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex508_test_function_logic/target/debug/ex508_test_function_logic: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex508_test_function_logic/src/main.rs

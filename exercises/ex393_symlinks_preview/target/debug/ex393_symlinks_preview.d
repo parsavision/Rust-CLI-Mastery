@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex393_symlinks_preview/target/debug/ex393_symlinks_preview: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex393_symlinks_preview/src/main.rs

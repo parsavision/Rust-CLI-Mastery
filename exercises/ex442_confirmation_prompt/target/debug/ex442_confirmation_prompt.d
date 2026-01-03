@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex442_confirmation_prompt/target/debug/ex442_confirmation_prompt: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex442_confirmation_prompt/src/main.rs

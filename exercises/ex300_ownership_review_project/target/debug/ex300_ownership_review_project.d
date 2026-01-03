@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex300_ownership_review_project/target/debug/ex300_ownership_review_project: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex300_ownership_review_project/src/main.rs

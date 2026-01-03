@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex205_initialize_same_value/target/debug/ex205_initialize_same_value: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex205_initialize_same_value/src/main.rs

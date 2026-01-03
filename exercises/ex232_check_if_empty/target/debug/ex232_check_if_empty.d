@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex232_check_if_empty/target/debug/ex232_check_if_empty: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex232_check_if_empty/src/main.rs

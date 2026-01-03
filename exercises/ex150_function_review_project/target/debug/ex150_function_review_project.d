@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex150_function_review_project/target/debug/ex150_function_review_project: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex150_function_review_project/src/main.rs

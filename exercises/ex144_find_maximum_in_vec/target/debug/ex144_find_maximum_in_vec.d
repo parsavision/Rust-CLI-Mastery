@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex144_find_maximum_in_vec/target/debug/ex144_find_maximum_in_vec: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex144_find_maximum_in_vec/src/main.rs

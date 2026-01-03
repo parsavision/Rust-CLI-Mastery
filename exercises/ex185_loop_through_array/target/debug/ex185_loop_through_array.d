@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex185_loop_through_array/target/debug/ex185_loop_through_array: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex185_loop_through_array/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex273_lifetime_annotation_preview/target/debug/ex273_lifetime_annotation_preview: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex273_lifetime_annotation_preview/src/main.rs

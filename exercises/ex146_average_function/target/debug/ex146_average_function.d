@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex146_average_function/target/debug/ex146_average_function: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex146_average_function/src/main.rs

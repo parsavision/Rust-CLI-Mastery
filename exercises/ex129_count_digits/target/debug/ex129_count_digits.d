@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex129_count_digits/target/debug/ex129_count_digits: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex129_count_digits/src/main.rs

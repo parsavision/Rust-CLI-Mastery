@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex312_option_from_parse/target/debug/ex312_option_from_parse: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex312_option_from_parse/src/main.rs

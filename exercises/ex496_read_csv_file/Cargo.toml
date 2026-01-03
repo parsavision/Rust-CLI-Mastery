@@ -1,0 +1,6 @@
+[package]
+name = "ex496_read_csv_file"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex356_openoptions/target/debug/ex356_openoptions: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex356_openoptions/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex551_project_planning/target/debug/ex551_project_planning: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex551_project_planning/src/main.rs

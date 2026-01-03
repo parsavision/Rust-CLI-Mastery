@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex258_multiple_borrows/target/debug/ex258_multiple_borrows: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex258_multiple_borrows/src/main.rs

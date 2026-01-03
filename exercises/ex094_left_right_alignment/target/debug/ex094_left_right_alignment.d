@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex094_left_right_alignment/target/debug/ex094_left_right_alignment: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex094_left_right_alignment/src/main.rs

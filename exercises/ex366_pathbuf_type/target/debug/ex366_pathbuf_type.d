@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex366_pathbuf_type/target/debug/ex366_pathbuf_type: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex366_pathbuf_type/src/main.rs

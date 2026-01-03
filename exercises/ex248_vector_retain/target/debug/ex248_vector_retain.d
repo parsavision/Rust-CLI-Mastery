@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex248_vector_retain/target/debug/ex248_vector_retain: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex248_vector_retain/src/main.rs

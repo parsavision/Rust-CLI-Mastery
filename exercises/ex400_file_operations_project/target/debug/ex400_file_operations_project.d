@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex400_file_operations_project/target/debug/ex400_file_operations_project: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex400_file_operations_project/src/main.rs

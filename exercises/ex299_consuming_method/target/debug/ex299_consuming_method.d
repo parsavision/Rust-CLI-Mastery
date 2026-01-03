@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex299_consuming_method/target/debug/ex299_consuming_method: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex299_consuming_method/src/main.rs

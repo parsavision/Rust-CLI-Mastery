@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex579_project_10_json_processing/target/debug/ex579_project_10_json_processing: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex579_project_10_json_processing/src/main.rs

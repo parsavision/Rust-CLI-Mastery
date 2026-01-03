@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex336_assert_eq_and_assert_ne/target/debug/ex336_assert_eq_and_assert_ne: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex336_assert_eq_and_assert_ne/src/main.rs

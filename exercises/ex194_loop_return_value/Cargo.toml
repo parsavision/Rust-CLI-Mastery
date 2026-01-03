@@ -1,0 +1,6 @@
+[package]
+name = "ex194_loop_return_value"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

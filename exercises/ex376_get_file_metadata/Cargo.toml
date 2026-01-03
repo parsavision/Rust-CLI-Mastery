@@ -1,0 +1,6 @@
+[package]
+name = "ex376_get_file_metadata"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

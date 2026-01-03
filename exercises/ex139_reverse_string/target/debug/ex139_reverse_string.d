@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex139_reverse_string/target/debug/ex139_reverse_string: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex139_reverse_string/src/main.rs

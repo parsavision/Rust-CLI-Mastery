@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex413_short_vs_long_flags/target/debug/ex413_short_vs_long_flags: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex413_short_vs_long_flags/src/main.rs

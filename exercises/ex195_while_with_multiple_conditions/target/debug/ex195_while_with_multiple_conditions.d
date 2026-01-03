@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex195_while_with_multiple_conditions/target/debug/ex195_while_with_multiple_conditions: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex195_while_with_multiple_conditions/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex440_warning_messages/target/debug/ex440_warning_messages: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex440_warning_messages/src/main.rs

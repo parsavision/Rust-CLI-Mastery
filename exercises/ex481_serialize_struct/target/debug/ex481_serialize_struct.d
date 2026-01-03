@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex481_serialize_struct/target/debug/ex481_serialize_struct: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex481_serialize_struct/src/main.rs

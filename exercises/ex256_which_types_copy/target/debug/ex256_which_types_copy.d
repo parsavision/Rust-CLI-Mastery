@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex256_which_types_copy/target/debug/ex256_which_types_copy: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex256_which_types_copy/src/main.rs

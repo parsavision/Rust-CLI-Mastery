@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex581_project_11_execute_commands/target/debug/ex581_project_11_execute_commands: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex581_project_11_execute_commands/src/main.rs

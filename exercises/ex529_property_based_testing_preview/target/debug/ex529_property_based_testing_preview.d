@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex529_property_based_testing_preview/target/debug/ex529_property_based_testing_preview: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex529_property_based_testing_preview/src/main.rs

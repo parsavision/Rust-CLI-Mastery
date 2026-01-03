@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex221_create_empty_vector/target/debug/ex221_create_empty_vector: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex221_create_empty_vector/src/main.rs

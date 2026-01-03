@@ -1,0 +1,6 @@
+[package]
+name = "ex529_property_based_testing_preview"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex136_string_length_function/target/debug/ex136_string_length_function: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex136_string_length_function/src/main.rs

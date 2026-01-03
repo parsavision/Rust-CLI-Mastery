@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex573_project_7_system_apis/target/debug/ex573_project_7_system_apis: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex573_project_7_system_apis/src/main.rs

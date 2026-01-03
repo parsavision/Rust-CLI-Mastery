@@ -1,0 +1,6 @@
+[package]
+name = "ex220_return_array_from_function"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

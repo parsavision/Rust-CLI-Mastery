@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex528_test_vector_operations/target/debug/ex528_test_vector_operations: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex528_test_vector_operations/src/main.rs

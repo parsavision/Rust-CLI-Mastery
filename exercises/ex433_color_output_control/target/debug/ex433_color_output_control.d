@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex433_color_output_control/target/debug/ex433_color_output_control: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex433_color_output_control/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex510_test_panics/target/debug/ex510_test_panics: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex510_test_panics/src/main.rs

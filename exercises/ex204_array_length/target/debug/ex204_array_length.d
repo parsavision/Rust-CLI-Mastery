@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex204_array_length/target/debug/ex204_array_length: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex204_array_length/src/main.rs

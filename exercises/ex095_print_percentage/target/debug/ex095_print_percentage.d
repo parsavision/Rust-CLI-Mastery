@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex095_print_percentage/target/debug/ex095_print_percentage: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex095_print_percentage/src/main.rs

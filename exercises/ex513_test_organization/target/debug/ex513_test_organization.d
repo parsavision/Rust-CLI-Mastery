@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex513_test_organization/target/debug/ex513_test_organization: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex513_test_organization/src/main.rs

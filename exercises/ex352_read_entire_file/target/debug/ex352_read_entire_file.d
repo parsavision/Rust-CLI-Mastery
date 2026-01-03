@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex352_read_entire_file/target/debug/ex352_read_entire_file: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex352_read_entire_file/src/main.rs

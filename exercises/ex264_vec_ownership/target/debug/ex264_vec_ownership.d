@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex264_vec_ownership/target/debug/ex264_vec_ownership: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex264_vec_ownership/src/main.rs

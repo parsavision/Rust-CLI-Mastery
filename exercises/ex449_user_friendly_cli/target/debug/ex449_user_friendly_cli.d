@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex449_user_friendly_cli/target/debug/ex449_user_friendly_cli: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex449_user_friendly_cli/src/main.rs

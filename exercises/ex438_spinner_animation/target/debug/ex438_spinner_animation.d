@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex438_spinner_animation/target/debug/ex438_spinner_animation: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex438_spinner_animation/src/main.rs

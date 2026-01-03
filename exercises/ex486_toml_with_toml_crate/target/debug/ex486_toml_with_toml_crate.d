@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex486_toml_with_toml_crate/target/debug/ex486_toml_with_toml_crate: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex486_toml_with_toml_crate/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex186_indexed_loop/target/debug/ex186_indexed_loop: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex186_indexed_loop/src/main.rs

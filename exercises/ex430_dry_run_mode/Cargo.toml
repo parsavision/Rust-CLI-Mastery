@@ -1,0 +1,6 @@
+[package]
+name = "ex430_dry_run_mode"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

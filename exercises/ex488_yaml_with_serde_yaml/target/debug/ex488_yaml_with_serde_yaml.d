@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex488_yaml_with_serde_yaml/target/debug/ex488_yaml_with_serde_yaml: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex488_yaml_with_serde_yaml/src/main.rs

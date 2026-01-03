@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex432_interactive_mode/target/debug/ex432_interactive_mode: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex432_interactive_mode/src/main.rs

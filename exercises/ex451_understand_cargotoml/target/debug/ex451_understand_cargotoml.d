@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex451_understand_cargotoml/target/debug/ex451_understand_cargotoml: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex451_understand_cargotoml/src/main.rs

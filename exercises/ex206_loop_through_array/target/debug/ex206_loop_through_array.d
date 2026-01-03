@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex206_loop_through_array/target/debug/ex206_loop_through_array: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex206_loop_through_array/src/main.rs

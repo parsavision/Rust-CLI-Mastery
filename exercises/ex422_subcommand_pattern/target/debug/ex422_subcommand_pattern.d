@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex422_subcommand_pattern/target/debug/ex422_subcommand_pattern: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex422_subcommand_pattern/src/main.rs

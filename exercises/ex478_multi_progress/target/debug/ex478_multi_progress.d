@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex478_multi_progress/target/debug/ex478_multi_progress: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex478_multi_progress/src/main.rs

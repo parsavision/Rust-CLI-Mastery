@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex479_json_with_serde/target/debug/ex479_json_with_serde: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex479_json_with_serde/src/main.rs

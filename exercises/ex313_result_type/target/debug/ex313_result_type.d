@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex313_result_type/target/debug/ex313_result_type: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex313_result_type/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex358_read_with_bufreader/target/debug/ex358_read_with_bufreader: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex358_read_with_bufreader/src/main.rs

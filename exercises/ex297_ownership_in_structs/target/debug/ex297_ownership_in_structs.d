@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex297_ownership_in_structs/target/debug/ex297_ownership_in_structs: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex297_ownership_in_structs/src/main.rs

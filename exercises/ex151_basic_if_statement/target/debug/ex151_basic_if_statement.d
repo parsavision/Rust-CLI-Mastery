@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex151_basic_if_statement/target/debug/ex151_basic_if_statement: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex151_basic_if_statement/src/main.rs

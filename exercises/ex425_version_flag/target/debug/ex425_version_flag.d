@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex425_version_flag/target/debug/ex425_version_flag: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex425_version_flag/src/main.rs

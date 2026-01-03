@@ -1,0 +1,6 @@
+[package]
+name = "ex422_subcommand_pattern"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

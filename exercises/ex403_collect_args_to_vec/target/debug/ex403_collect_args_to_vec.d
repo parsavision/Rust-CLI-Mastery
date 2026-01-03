@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex403_collect_args_to_vec/target/debug/ex403_collect_args_to_vec: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex403_collect_args_to_vec/src/main.rs

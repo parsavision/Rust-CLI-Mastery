@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex344_logging_errors/target/debug/ex344_logging_errors: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex344_logging_errors/src/main.rs

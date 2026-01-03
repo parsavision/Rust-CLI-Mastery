@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex385_read_file_as_bytes/target/debug/ex385_read_file_as_bytes: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex385_read_file_as_bytes/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex375_check_if_entry_is_file/target/debug/ex375_check_if_entry_is_file: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex375_check_if_entry_is_file/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex119_void_function/target/debug/ex119_void_function: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex119_void_function/src/main.rs

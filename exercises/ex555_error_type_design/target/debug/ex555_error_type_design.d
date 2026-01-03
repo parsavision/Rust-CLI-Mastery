@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex555_error_type_design/target/debug/ex555_error_type_design: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex555_error_type_design/src/main.rs

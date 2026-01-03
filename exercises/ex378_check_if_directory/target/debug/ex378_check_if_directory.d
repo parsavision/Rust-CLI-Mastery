@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex378_check_if_directory/target/debug/ex378_check_if_directory: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex378_check_if_directory/src/main.rs

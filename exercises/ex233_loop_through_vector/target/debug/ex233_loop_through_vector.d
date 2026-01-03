@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex233_loop_through_vector/target/debug/ex233_loop_through_vector: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex233_loop_through_vector/src/main.rs

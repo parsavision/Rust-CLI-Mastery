@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex490_current_timestamp/target/debug/ex490_current_timestamp: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex490_current_timestamp/src/main.rs

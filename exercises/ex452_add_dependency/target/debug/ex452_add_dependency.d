@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex452_add_dependency/target/debug/ex452_add_dependency: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex452_add_dependency/src/main.rs

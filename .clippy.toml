@@ -1,0 +1,139 @@
+# Clippy Configuration for Rust CLI Mastery
+# This configuration enables safety-focused lints for learning
+
+# ==================================================================
+# SAFETY-CRITICAL LINTS (Enabled for Exercises 84+)
+# ==================================================================
+
+# These lints catch common beginner mistakes that lead to panics
+
+[lints.clippy]
+# Warn on operations that can panic
+indexing_slicing = "warn"         # arr[i] can panic - use .get(i)
+unwrap_used = "warn"               # .unwrap() can panic - use match or unwrap_or
+expect_used = "warn"               # .expect() can panic - use match for user input
+panic = "warn"                     # explicit panic!() - should be rare
+todo = "warn"                      # todo!() in finished code
+unimplemented = "warn"             # unimplemented!() in finished code
+
+# Error handling improvements
+map_unwrap_or = "warn"             # Suggest .map_or() for cleaner code
+unnecessary_unwrap = "warn"        # Unwrap after checking is_some/is_ok
+missing_errors_doc = "allow"       # Allow for learning exercises (enable later)
+
+# String and collection safety
+string_slice = "warn"              # &s[i..j] can panic on UTF-8 boundaries
+out_of_bounds_indexing = "deny"    # Compile-time detected out of bounds
+
+# ==================================================================
+# CODE QUALITY LINTS
+# ==================================================================
+
+# Idiomatic Rust patterns
+needless_range_loop = "warn"       # Use iterators instead of for i in 0..len
+explicit_iter_loop = "warn"        # Use &collection instead of collection.iter()
+manual_filter_map = "warn"         # Simpler iterator methods available
+match_like_matches_macro = "warn"  # Use matches!() macro when appropriate
+single_match = "warn"              # Use if let for single-arm match
+match_bool = "warn"                # Use if/else instead of match on bool
+needless_return = "warn"           # Implicit returns are idiomatic
+
+# Efficiency
+unnecessary_to_owned = "warn"      # Avoid unnecessary .to_string()/.to_vec()
+clone_on_copy = "warn"             # .clone() on Copy types is redundant
+useless_conversion = "warn"        # .into() that does nothing
+
+# ==================================================================
+# ALLOW LIST FOR EARLY EXERCISES (1-83)
+# ==================================================================
+
+# These exercises were created before enhanced safety requirements
+# They use .expect() and .unwrap() for teaching basic syntax
+
+# Note: Individual exercise-level .clippy.toml files can override these settings
+
+# ==================================================================
+# EXERCISE-SPECIFIC CONFIGURATIONS
+# ==================================================================
+
+# For exercises teaching specific unsafe patterns (intentionally),
+# create a .clippy.toml in that exercise directory with:
+#
+# [lints.clippy]
+# indexing_slicing = "allow"  # If demonstrating the problem
+#
+# Always document WHY the lint is allowed in the exercise README!
+
+# ==================================================================
+# DOCUMENTATION LINTS (Phased In)
+# ==================================================================
+
+# Gradually enabled as students progress
+missing_docs = "allow"              # Too strict for early exercises
+missing_doc_code_examples = "allow" # Enable for library exercises (ex 200+)
+missing_panics_doc = "allow"        # Enable after error handling phase
+
+# ==================================================================
+# STYLE LINTS (Light Touch)
+# ==================================================================
+
+# These improve code style without being overwhelming
+needless_borrow = "warn"            # &x when x already implements trait
+redundant_closure = "warn"          # |x| foo(x) can be just foo
+needless_lifetimes = "warn"         # Explicit lifetimes not needed
+
+# ==================================================================
+# ALLOW COMMON PATTERNS IN LEARNING CODE
+# ==================================================================
+
+# These are often needed in educational contexts
+print_stdout = "allow"              # We print a lot!
+print_stderr = "allow"              # CLI tools use stderr
+use_debug = "allow"                 # {:?} is useful for learning
+dbg_macro = "allow"                 # dbg!() is great for debugging while learning
+missing_const_for_fn = "allow"      # Too advanced for early exercises
+must_use_candidate = "allow"        # Too strict for learning code
+
+# ==================================================================
+# PEDANTIC LINTS (Gradually Enabled)
+# ==================================================================
+
+# Start with these disabled; enable selectively in advanced exercises
+pedantic = "allow"                  # Too many warnings for beginners
+
+# Selectively enable useful pedantic lints:
+# (Uncomment as students progress)
+# must_use_candidate = "warn"        # After ex 200
+# missing_errors_doc = "warn"        # After ex 300
+# missing_panics_doc = "warn"        # After ex 300
+
+# ==================================================================
+# NOTES FOR CONTRIBUTORS
+# ==================================================================
+
+# When creating new exercises:
+# 1. Start with beginner code that might trigger these lints
+# 2. Show the clippy warning in the README
+# 3. Explain WHY it's a problem
+# 4. Show the idiomatic fix
+# 5. Make it a challenge to pass clippy
+
+# Exercise-specific overrides:
+# Create exercises/exXXX/clippy.toml with specific allows/denies
+# Document the reason in the exercise README
+
+# ==================================================================
+# USEFUL COMMANDS
+# ==================================================================
+
+# Check all exercises:
+#   cargo clippy --all-targets --all-features
+
+# Check specific exercise:
+#   cd exercises/ex084_split_input && cargo clippy
+
+# Fix automatically fixable issues:
+#   cargo clippy --fix
+
+# Explain a specific lint:
+#   rustup doc --clippy indexing_slicing

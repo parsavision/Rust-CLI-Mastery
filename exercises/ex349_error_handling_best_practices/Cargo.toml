@@ -1,0 +1,6 @@
+[package]
+name = "ex349_error_handling_best_practices"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

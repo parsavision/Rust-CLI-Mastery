@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex496_read_csv_file/target/debug/ex496_read_csv_file: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex496_read_csv_file/src/main.rs

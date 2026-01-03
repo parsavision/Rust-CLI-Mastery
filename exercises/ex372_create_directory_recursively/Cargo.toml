@@ -1,0 +1,6 @@
+[package]
+name = "ex372_create_directory_recursively"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

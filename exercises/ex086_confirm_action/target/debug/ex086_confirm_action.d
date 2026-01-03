@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex086_confirm_action/target/debug/ex086_confirm_action: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex086_confirm_action/src/main.rs

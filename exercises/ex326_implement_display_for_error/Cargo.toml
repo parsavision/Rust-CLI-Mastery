@@ -1,0 +1,6 @@
+[package]
+name = "ex326_implement_display_for_error"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

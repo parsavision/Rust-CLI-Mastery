@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex571_project_6_compression/target/debug/ex571_project_6_compression: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex571_project_6_compression/src/main.rs

@@ -1,0 +1,6 @@
+[package]
+name = "ex495_csv_with_csv_crate"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

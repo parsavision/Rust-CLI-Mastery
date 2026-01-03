@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex458_clap_basic_usage/target/debug/ex458_clap_basic_usage: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex458_clap_basic_usage/src/main.rs

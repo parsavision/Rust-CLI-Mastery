@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex523_mock_user_input/target/debug/ex523_mock_user_input: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex523_mock_user_input/src/main.rs

@@ -1,0 +1,6 @@
+[package]
+name = "ex478_multi_progress"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

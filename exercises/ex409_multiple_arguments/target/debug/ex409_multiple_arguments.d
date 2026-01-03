@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex409_multiple_arguments/target/debug/ex409_multiple_arguments: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex409_multiple_arguments/src/main.rs

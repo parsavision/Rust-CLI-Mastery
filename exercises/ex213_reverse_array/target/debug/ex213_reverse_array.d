@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex213_reverse_array/target/debug/ex213_reverse_array: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex213_reverse_array/src/main.rs

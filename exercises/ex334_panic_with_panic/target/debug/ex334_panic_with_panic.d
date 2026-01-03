@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex334_panic_with_panic/target/debug/ex334_panic_with_panic: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex334_panic_with_panic/src/main.rs

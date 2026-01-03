@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex377_get_file_size/target/debug/ex377_get_file_size: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex377_get_file_size/src/main.rs

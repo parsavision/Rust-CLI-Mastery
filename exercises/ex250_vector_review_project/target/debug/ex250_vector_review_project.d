@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex250_vector_review_project/target/debug/ex250_vector_review_project: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex250_vector_review_project/src/main.rs

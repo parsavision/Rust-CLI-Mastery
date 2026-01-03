@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex323_convert_error_types/target/debug/ex323_convert_error_types: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex323_convert_error_types/src/main.rs

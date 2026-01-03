@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex337_file_read_error/target/debug/ex337_file_read_error: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex337_file_read_error/src/main.rs

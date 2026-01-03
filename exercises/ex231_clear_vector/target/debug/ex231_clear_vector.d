@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex231_clear_vector/target/debug/ex231_clear_vector: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex231_clear_vector/src/main.rs

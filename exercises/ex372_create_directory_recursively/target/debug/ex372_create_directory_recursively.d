@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex372_create_directory_recursively/target/debug/ex372_create_directory_recursively: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex372_create_directory_recursively/src/main.rs

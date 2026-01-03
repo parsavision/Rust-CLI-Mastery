@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex203_access_element/target/debug/ex203_access_element: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex203_access_element/src/main.rs

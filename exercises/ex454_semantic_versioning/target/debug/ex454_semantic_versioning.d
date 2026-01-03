@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex454_semantic_versioning/target/debug/ex454_semantic_versioning: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex454_semantic_versioning/src/main.rs

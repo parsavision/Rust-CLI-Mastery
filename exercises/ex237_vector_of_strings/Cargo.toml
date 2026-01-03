@@ -1,0 +1,6 @@
+[package]
+name = "ex237_vector_of_strings"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

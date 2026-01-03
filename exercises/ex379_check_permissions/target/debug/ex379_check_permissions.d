@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex379_check_permissions/target/debug/ex379_check_permissions: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex379_check_permissions/src/main.rs

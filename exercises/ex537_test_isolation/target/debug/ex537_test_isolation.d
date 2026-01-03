@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex537_test_isolation/target/debug/ex537_test_isolation: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex537_test_isolation/src/main.rs

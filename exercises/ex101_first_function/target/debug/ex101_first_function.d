@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex101_first_function/target/debug/ex101_first_function: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex101_first_function/src/main.rs

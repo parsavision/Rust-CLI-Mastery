@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex567_project_4_random_numbers/target/debug/ex567_project_4_random_numbers: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex567_project_4_random_numbers/src/main.rs

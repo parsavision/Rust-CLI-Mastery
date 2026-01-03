@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex154_equality_check/target/debug/ex154_equality_check: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex154_equality_check/src/main.rs

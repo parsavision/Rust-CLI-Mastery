@@ -1,0 +1,6 @@
+[package]
+name = "ex147_filter_evens"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex494_timestamp_in_logs/target/debug/ex494_timestamp_in_logs: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex494_timestamp_in_logs/src/main.rs

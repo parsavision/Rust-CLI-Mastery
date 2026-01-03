@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex446_signal_handling_preview/target/debug/ex446_signal_handling_preview: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex446_signal_handling_preview/src/main.rs

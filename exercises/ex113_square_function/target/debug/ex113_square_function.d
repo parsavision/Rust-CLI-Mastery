@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex113_square_function/target/debug/ex113_square_function: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex113_square_function/src/main.rs

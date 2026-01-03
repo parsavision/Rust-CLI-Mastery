@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex89_input_with_default/target/debug/ex89_input_with_default: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex89_input_with_default/src/main.rs

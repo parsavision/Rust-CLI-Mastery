@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex018_first_variable/target/debug/ex018_first_variable: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex018_first_variable/src/main.rs

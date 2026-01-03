@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex272_return_owned_data/target/debug/ex272_return_owned_data: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex272_return_owned_data/src/main.rs

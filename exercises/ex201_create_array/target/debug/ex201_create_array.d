@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex201_create_array/target/debug/ex201_create_array: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex201_create_array/src/main.rs

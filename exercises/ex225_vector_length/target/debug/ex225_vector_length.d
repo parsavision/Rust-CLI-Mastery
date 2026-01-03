@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex225_vector_length/target/debug/ex225_vector_length: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex225_vector_length/src/main.rs

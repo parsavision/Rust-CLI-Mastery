@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex170_menu_selection/target/debug/ex170_menu_selection: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex170_menu_selection/src/main.rs

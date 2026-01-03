@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex197_iterator_pattern/target/debug/ex197_iterator_pattern: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex197_iterator_pattern/src/main.rs

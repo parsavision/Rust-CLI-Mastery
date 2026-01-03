@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex583_project_12_language_detection/target/debug/ex583_project_12_language_detection: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex583_project_12_language_detection/src/main.rs

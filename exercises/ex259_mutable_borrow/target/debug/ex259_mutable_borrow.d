@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex259_mutable_borrow/target/debug/ex259_mutable_borrow: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex259_mutable_borrow/src/main.rs

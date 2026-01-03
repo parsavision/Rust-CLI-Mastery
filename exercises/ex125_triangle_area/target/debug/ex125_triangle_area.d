@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex125_triangle_area/target/debug/ex125_triangle_area: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex125_triangle_area/src/main.rs

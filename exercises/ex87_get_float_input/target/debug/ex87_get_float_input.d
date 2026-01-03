@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex87_get_float_input/target/debug/ex87_get_float_input: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex87_get_float_input/src/main.rs

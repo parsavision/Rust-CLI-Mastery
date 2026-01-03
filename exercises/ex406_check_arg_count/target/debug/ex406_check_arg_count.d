@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex406_check_arg_count/target/debug/ex406_check_arg_count: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex406_check_arg_count/src/main.rs

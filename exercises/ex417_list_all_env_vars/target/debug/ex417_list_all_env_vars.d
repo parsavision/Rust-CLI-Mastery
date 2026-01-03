@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex417_list_all_env_vars/target/debug/ex417_list_all_env_vars: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex417_list_all_env_vars/src/main.rs

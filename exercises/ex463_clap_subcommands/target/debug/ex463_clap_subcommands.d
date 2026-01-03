@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex463_clap_subcommands/target/debug/ex463_clap_subcommands: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex463_clap_subcommands/src/main.rs

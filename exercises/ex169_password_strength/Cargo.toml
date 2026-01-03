@@ -1,0 +1,6 @@
+[package]
+name = "ex169_password_strength"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

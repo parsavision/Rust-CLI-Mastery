@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex492_parse_datetime/target/debug/ex492_parse_datetime: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex492_parse_datetime/src/main.rs

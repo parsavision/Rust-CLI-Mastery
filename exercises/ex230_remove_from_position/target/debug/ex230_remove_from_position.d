@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex230_remove_from_position/target/debug/ex230_remove_from_position: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex230_remove_from_position/src/main.rs

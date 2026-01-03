@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex503_assert_macro/target/debug/ex503_assert_macro: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex503_assert_macro/src/main.rs

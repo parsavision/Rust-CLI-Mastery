@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex427_config_file_path/target/debug/ex427_config_file_path: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex427_config_file_path/src/main.rs

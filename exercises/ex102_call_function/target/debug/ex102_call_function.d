@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex102_call_function/target/debug/ex102_call_function: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex102_call_function/src/main.rs

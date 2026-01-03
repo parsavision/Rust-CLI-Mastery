@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex097_progress_indicator/target/debug/ex097_progress_indicator: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex097_progress_indicator/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex473_error_colors/target/debug/ex473_error_colors: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex473_error_colors/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex428_verbose_mode/target/debug/ex428_verbose_mode: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex428_verbose_mode/src/main.rs

@@ -1,0 +1,6 @@
+[package]
+name = "ex598_project_20_your_own_idea"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

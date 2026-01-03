@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex591_project_16_binary_management/target/debug/ex591_project_16_binary_management: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex591_project_16_binary_management/src/main.rs

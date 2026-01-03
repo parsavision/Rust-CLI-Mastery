@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex535_parameterized_testing/target/debug/ex535_parameterized_testing: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex535_parameterized_testing/src/main.rs

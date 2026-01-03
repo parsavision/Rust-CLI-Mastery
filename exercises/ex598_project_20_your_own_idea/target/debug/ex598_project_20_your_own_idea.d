@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex598_project_20_your_own_idea/target/debug/ex598_project_20_your_own_idea: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex598_project_20_your_own_idea/src/main.rs

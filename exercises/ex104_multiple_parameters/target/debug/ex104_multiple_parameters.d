@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex104_multiple_parameters/target/debug/ex104_multiple_parameters: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex104_multiple_parameters/src/main.rs

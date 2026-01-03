@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex226_vector_capacity/target/debug/ex226_vector_capacity: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex226_vector_capacity/src/main.rs

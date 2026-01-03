@@ -1,0 +1,6 @@
+[package]
+name = "ex417_list_all_env_vars"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

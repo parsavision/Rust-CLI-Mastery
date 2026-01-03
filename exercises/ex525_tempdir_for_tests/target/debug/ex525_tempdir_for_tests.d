@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex525_tempdir_for_tests/target/debug/ex525_tempdir_for_tests: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex525_tempdir_for_tests/src/main.rs

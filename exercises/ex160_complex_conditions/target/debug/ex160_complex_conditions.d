@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex160_complex_conditions/target/debug/ex160_complex_conditions: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex160_complex_conditions/src/main.rs

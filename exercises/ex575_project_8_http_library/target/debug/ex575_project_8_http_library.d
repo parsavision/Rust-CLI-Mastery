@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex575_project_8_http_library/target/debug/ex575_project_8_http_library: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex575_project_8_http_library/src/main.rs

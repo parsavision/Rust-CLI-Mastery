@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex511_expected_panic_message/target/debug/ex511_expected_panic_message: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex511_expected_panic_message/src/main.rs

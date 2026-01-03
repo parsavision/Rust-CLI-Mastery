@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex260_borrow_rules/target/debug/ex260_borrow_rules: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex260_borrow_rules/src/main.rs

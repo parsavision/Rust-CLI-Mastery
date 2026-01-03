@@ -1,0 +1,6 @@
+[package]
+name = "ex196_do_while_pattern"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

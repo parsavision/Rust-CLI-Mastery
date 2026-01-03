@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex157_and_condition/target/debug/ex157_and_condition: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex157_and_condition/src/main.rs

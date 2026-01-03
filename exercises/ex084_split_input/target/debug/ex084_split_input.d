@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex084_split_input/target/debug/ex084_split_input: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex084_split_input/src/main.rs

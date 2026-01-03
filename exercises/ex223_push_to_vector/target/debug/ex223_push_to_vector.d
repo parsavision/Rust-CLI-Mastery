@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex223_push_to_vector/target/debug/ex223_push_to_vector: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex223_push_to_vector/src/main.rs

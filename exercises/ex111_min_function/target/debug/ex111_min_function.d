@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex111_min_function/target/debug/ex111_min_function: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex111_min_function/src/main.rs

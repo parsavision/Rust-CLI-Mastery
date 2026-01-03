@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex554_separate_cli_from_logic/target/debug/ex554_separate_cli_from_logic: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex554_separate_cli_from_logic/src/main.rs

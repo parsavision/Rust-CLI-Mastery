@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex217_array_slicing/target/debug/ex217_array_slicing: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex217_array_slicing/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex93_padding_numbers/target/debug/ex93_padding_numbers: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex93_padding_numbers/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex167_leap_year_check/target/debug/ex167_leap_year_check: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex167_leap_year_check/src/main.rs

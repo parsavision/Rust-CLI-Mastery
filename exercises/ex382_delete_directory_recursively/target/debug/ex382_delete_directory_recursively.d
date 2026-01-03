@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex382_delete_directory_recursively/target/debug/ex382_delete_directory_recursively: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex382_delete_directory_recursively/src/main.rs

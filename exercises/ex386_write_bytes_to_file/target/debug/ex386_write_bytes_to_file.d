@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex386_write_bytes_to_file/target/debug/ex386_write_bytes_to_file: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex386_write_bytes_to_file/src/main.rs

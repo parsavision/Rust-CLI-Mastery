@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex397_config_file_pattern/target/debug/ex397_config_file_pattern: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex397_config_file_pattern/src/main.rs

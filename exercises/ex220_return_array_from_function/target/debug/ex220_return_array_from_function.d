@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex220_return_array_from_function/target/debug/ex220_return_array_from_function: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex220_return_array_from_function/src/main.rs

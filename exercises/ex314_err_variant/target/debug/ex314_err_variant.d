@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex314_err_variant/target/debug/ex314_err_variant: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex314_err_variant/src/main.rs

@@ -1,0 +1,6 @@
+[package]
+name = "ex294_cow_type_preview"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

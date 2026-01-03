@@ -1,0 +1,6 @@
+[package]
+name = "ex486_toml_with_toml_crate"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

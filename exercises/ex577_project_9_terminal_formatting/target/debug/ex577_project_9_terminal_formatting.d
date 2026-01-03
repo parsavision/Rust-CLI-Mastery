@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex577_project_9_terminal_formatting/target/debug/ex577_project_9_terminal_formatting: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex577_project_9_terminal_formatting/src/main.rs

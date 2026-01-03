@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex252_string_ownership/target/debug/ex252_string_ownership: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex252_string_ownership/src/main.rs

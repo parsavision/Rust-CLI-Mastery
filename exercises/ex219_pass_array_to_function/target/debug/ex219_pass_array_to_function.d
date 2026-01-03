@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex219_pass_array_to_function/target/debug/ex219_pass_array_to_function: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex219_pass_array_to_function/src/main.rs

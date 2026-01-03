@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex327_from_for_error_conversion/target/debug/ex327_from_for_error_conversion: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex327_from_for_error_conversion/src/main.rs

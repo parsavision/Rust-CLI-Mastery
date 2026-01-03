@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex405_access_first_argument/target/debug/ex405_access_first_argument: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex405_access_first_argument/src/main.rs

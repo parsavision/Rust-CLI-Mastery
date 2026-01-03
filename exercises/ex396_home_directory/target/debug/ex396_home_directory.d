@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex396_home_directory/target/debug/ex396_home_directory: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex396_home_directory/src/main.rs

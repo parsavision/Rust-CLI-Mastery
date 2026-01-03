@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex110_max_function/target/debug/ex110_max_function: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex110_max_function/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex216_print_2d_array/target/debug/ex216_print_2d_array: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex216_print_2d_array/src/main.rs

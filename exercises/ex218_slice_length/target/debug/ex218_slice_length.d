@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex218_slice_length/target/debug/ex218_slice_length: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex218_slice_length/src/main.rs

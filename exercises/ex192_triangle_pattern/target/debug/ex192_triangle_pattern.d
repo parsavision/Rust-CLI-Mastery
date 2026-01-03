@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex192_triangle_pattern/target/debug/ex192_triangle_pattern: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex192_triangle_pattern/src/main.rs

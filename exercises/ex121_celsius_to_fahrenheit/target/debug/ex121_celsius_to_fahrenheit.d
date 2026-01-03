@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex121_celsius_to_fahrenheit/target/debug/ex121_celsius_to_fahrenheit: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex121_celsius_to_fahrenheit/src/main.rs

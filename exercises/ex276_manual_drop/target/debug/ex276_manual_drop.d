@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex276_manual_drop/target/debug/ex276_manual_drop: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex276_manual_drop/src/main.rs

@@ -1,0 +1,6 @@
+[package]
+name = "ex562_project_2_regex_patterns"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

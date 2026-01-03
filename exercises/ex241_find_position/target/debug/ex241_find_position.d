@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex241_find_position/target/debug/ex241_find_position: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex241_find_position/src/main.rs

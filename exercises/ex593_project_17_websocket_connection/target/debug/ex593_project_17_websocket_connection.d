@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex593_project_17_websocket_connection/target/debug/ex593_project_17_websocket_connection: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex593_project_17_websocket_connection/src/main.rs

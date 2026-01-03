@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex145_find_minimum_in_vec/target/debug/ex145_find_minimum_in_vec: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex145_find_minimum_in_vec/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex237_vector_of_strings/target/debug/ex237_vector_of_strings: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex237_vector_of_strings/src/main.rs

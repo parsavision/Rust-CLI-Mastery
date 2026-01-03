@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex322_multiple_in_function/target/debug/ex322_multiple_in_function: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex322_multiple_in_function/src/main.rs

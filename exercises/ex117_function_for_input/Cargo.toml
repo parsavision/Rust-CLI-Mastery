@@ -1,0 +1,6 @@
+[package]
+name = "ex117_function_for_input"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

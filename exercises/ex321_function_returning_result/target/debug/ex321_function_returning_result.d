@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex321_function_returning_result/target/debug/ex321_function_returning_result: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex321_function_returning_result/src/main.rs

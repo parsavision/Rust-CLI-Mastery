@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex542_test_state_machines/target/debug/ex542_test_state_machines: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex542_test_state_machines/src/main.rs

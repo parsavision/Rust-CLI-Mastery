@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex448_cli_design_patterns/target/debug/ex448_cli_design_patterns: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex448_cli_design_patterns/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex096_color_output_preview/target/debug/ex096_color_output_preview: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex096_color_output_preview/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex519_test_with_cleanup/target/debug/ex519_test_with_cleanup: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex519_test_with_cleanup/src/main.rs

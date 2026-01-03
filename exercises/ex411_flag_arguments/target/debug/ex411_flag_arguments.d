@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex411_flag_arguments/target/debug/ex411_flag_arguments: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex411_flag_arguments/src/main.rs

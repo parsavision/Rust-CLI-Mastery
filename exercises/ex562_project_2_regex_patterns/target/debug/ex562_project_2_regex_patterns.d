@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex562_project_2_regex_patterns/target/debug/ex562_project_2_regex_patterns: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex562_project_2_regex_patterns/src/main.rs

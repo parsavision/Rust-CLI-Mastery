@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex240_contains_check/target/debug/ex240_contains_check: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex240_contains_check/src/main.rs

@@ -1,0 +1,6 @@
+[package]
+name = "ex581_project_11_execute_commands"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

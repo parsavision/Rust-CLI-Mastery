@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex242_filter_vector/target/debug/ex242_filter_vector: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex242_filter_vector/src/main.rs

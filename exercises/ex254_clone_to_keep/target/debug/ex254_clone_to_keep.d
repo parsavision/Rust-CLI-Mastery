@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex254_clone_to_keep/target/debug/ex254_clone_to_keep: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex254_clone_to_keep/src/main.rs

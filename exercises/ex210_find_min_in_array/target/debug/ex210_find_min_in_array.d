@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex210_find_min_in_array/target/debug/ex210_find_min_in_array: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex210_find_min_in_array/src/main.rs

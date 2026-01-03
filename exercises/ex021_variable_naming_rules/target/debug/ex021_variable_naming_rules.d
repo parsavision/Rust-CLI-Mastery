@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex021_variable_naming_rules/target/debug/ex021_variable_naming_rules: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex021_variable_naming_rules/src/main.rs

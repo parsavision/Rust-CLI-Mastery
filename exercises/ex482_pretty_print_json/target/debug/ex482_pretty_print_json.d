@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex482_pretty_print_json/target/debug/ex482_pretty_print_json: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex482_pretty_print_json/src/main.rs

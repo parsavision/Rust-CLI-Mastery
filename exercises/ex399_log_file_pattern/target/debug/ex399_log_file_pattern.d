@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex399_log_file_pattern/target/debug/ex399_log_file_pattern: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex399_log_file_pattern/src/main.rs

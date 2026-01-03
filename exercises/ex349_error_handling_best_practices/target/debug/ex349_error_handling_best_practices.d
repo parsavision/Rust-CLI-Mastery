@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex349_error_handling_best_practices/target/debug/ex349_error_handling_best_practices: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex349_error_handling_best_practices/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex099_input_output_review/target/debug/ex099_input_output_review: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex099_input_output_review/src/main.rs

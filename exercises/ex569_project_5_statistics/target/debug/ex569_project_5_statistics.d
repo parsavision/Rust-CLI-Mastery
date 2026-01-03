@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex569_project_5_statistics/target/debug/ex569_project_5_statistics: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex569_project_5_statistics/src/main.rs

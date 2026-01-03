@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex597_project_19_file_watching/target/debug/ex597_project_19_file_watching: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex597_project_19_file_watching/src/main.rs

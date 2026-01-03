@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex224_pop_from_vector/target/debug/ex224_pop_from_vector: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex224_pop_from_vector/src/main.rs

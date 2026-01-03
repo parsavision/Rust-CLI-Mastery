@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex340_early_return_pattern/target/debug/ex340_early_return_pattern: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex340_early_return_pattern/src/main.rs

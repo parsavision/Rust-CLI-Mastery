@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex118_function_with_error_string/target/debug/ex118_function_with_error_string: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex118_function_with_error_string/src/main.rs

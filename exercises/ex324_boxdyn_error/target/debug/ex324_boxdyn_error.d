@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex324_boxdyn_error/target/debug/ex324_boxdyn_error: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex324_boxdyn_error/src/main.rs

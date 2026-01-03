@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex515_test_documentation_examples/target/debug/ex515_test_documentation_examples: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex515_test_documentation_examples/src/main.rs

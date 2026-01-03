@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex147_filter_evens/target/debug/ex147_filter_evens: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex147_filter_evens/src/main.rs

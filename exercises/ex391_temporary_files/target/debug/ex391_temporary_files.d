@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex391_temporary_files/target/debug/ex391_temporary_files: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex391_temporary_files/src/main.rs

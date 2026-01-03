@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex116_calculator_functions/target/debug/ex116_calculator_functions: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex116_calculator_functions/src/main.rs

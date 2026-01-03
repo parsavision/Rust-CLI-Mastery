@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex088_multiple_float_inputs/target/debug/ex088_multiple_float_inputs: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex088_multiple_float_inputs/src/main.rs

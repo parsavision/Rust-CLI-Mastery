@@ -1,0 +1,6 @@
+[package]
+name = "ex484_parse_json_string"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

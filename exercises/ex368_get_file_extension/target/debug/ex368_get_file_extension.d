@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex368_get_file_extension/target/debug/ex368_get_file_extension: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex368_get_file_extension/src/main.rs

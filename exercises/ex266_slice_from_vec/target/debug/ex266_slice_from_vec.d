@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex266_slice_from_vec/target/debug/ex266_slice_from_vec: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex266_slice_from_vec/src/main.rs

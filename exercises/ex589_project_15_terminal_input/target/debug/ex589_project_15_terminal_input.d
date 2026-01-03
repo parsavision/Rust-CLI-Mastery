@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex589_project_15_terminal_input/target/debug/ex589_project_15_terminal_input: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex589_project_15_terminal_input/src/main.rs

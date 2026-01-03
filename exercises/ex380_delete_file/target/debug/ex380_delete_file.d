@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex380_delete_file/target/debug/ex380_delete_file: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex380_delete_file/src/main.rs

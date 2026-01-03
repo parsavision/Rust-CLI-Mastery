@@ -1,0 +1,6 @@
+[package]
+name = "ex477_progress_bar_styling"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

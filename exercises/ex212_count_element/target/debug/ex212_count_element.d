@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex212_count_element/target/debug/ex212_count_element: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex212_count_element/src/main.rs

@@ -1,0 +1,6 @@
+[package]
+name = "ex332_is_ok_and_is_err"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

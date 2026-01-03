@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex294_cow_type_preview/target/debug/ex294_cow_type_preview: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex294_cow_type_preview/src/main.rs

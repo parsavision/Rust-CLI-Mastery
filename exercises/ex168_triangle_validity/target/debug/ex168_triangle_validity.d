@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex168_triangle_validity/target/debug/ex168_triangle_validity: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex168_triangle_validity/src/main.rs

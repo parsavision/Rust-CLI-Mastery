@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex100_mini_calculator/target/debug/ex100_mini_calculator: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex100_mini_calculator/src/main.rs

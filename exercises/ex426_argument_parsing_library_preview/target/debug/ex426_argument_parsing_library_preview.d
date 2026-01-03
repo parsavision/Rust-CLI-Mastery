@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex426_argument_parsing_library_preview/target/debug/ex426_argument_parsing_library_preview: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex426_argument_parsing_library_preview/src/main.rs

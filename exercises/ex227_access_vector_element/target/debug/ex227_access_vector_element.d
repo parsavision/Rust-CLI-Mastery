@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex227_access_vector_element/target/debug/ex227_access_vector_element: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex227_access_vector_element/src/main.rs

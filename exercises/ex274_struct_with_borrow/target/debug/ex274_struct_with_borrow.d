@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex274_struct_with_borrow/target/debug/ex274_struct_with_borrow: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex274_struct_with_borrow/src/main.rs

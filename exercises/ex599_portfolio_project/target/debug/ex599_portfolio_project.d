@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex599_portfolio_project/target/debug/ex599_portfolio_project: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex599_portfolio_project/src/main.rs

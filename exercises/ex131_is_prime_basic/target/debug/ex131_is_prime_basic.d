@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex131_is_prime_basic/target/debug/ex131_is_prime_basic: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex131_is_prime_basic/src/main.rs

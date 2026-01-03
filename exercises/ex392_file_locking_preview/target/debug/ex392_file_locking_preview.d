@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex392_file_locking_preview/target/debug/ex392_file_locking_preview: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex392_file_locking_preview/src/main.rs

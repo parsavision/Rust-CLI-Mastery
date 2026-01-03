@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex098_clear_screen_simulation/target/debug/ex098_clear_screen_simulation: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex098_clear_screen_simulation/src/main.rs

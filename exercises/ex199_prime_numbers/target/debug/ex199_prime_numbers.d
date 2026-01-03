@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex199_prime_numbers/target/debug/ex199_prime_numbers: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex199_prime_numbers/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex292_upgrade_weak/target/debug/ex292_upgrade_weak: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex292_upgrade_weak/src/main.rs

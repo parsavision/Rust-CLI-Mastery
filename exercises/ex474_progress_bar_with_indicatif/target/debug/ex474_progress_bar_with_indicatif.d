@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex474_progress_bar_with_indicatif/target/debug/ex474_progress_bar_with_indicatif: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex474_progress_bar_with_indicatif/src/main.rs

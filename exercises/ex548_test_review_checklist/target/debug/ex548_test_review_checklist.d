@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex548_test_review_checklist/target/debug/ex548_test_review_checklist: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex548_test_review_checklist/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex556_configuration_module/target/debug/ex556_configuration_module: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex556_configuration_module/src/main.rs

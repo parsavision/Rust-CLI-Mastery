@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex407_print_usage_message/target/debug/ex407_print_usage_message: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex407_print_usage_message/src/main.rs

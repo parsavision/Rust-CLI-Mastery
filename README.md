@@ -3,6 +3,7 @@
 A complete learning path for building command-line applications in Rust, designed for absolute beginners with zero programming knowledge.
 
 ## 📋 Table of Contents
+- [Enhanced Learning System (Exercises 84+)](#-enhanced-learning-system-exercises-84)
 - [Phase 1: Foundation (Exercises 1-50)](#phase-1-foundation-exercises-1-50)
 - [Phase 2: Basic Interactions (Exercises 51-100)](#phase-2-basic-interactions-exercises-51-100)
 - [Phase 3: Functions & Reusability (Exercises 101-150)](#phase-3-functions-reusability-exercises-101-150)
@@ -15,6 +16,141 @@ A complete learning path for building command-line applications in Rust, designe
 - [Phase 10: Advanced CLI (Exercises 451-500)](#phase-10-advanced-cli-exercises-451-500)
 - [Phase 11: Testing & Quality (Exercises 501-550)](#phase-11-testing-quality-exercises-501-550)
 - [Phase 12: Real Projects (Exercises 551-600)](#phase-12-real-projects-exercises-551-600)
+
+---
+
+## 🎓 Enhanced Learning System (Exercises 84+)
+
+### 🌟 What Makes This Different
+
+Starting with **Exercise 84**, you'll experience a revolutionary approach to learning Rust, inspired by proven methodologies like **Rustlings** and backed by **modern Rust best practices**.
+
+### 📚 Four-Part Learning System
+
+#### 1️⃣ **The "Why" (Not Just "What")**
+
+Every exercise compares two approaches:
+
+**🟢 Beginner Way** → Works, easy to understand
+```rust
+let item = vec[0];  // Direct, simple
+```
+*Trade-off:* ⚠️ Can panic if vector is empty
+
+**🔵 Idiomatic Way** → Safe, professional
+```rust
+let item = vec.first().copied().unwrap_or_default();
+```
+*Why better:* No panic risk, explicit handling, composable
+
+You'll understand **why** Rust developers prefer certain patterns, not just **what** to type.
+
+#### 2️⃣ **Safety First (Prevent Bad Habits)**
+
+Each exercise identifies dangerous patterns:
+
+```rust
+⚠️ Risky Pattern
+let weight = &input[0..input.len()-2];  // Multiple panic points!
+
+✅ Safe Alternative  
+let weight = input.strip_suffix("kg")?;  // Graceful failure
+```
+
+**You'll learn:**
+- What can go wrong (with real examples)
+- Why it's dangerous (actual consequences)
+- How to fix it (safe alternatives)
+- How Rust helps you (compiler + clippy)
+
+#### 3️⃣ **Modern Rust (Clippy Integration)**
+
+Run `cargo clippy` after every exercise:
+
+```bash
+$ cargo clippy
+
+warning: indexing may panic
+  --> src/main.rs:12:13
+   |
+   = help: Consider using `.get(..)` to avoid panicking
+```
+
+**Clippy teaches you:**
+- Idiomatic patterns
+- Performance improvements
+- Safety enhancements
+- Modern Rust conventions
+
+#### 4️⃣ **Progressive Challenges (Mini-Refactorings)**
+
+After solving each exercise, level up your code:
+
+**Challenge 1: Eliminate Panics** ⏱️ 5 min
+- Replace `.unwrap()` → `.unwrap_or()`
+- Replace indexing → `.get()`
+
+**Challenge 2: Better Errors** ⏱️ 10 min
+- Add `Result<T, E>` return types
+- Provide helpful error messages
+
+**Challenge 3: Idiomatic Code** ⏱️ 15 min
+- Use `?` operator
+- Iterator chains instead of loops
+- Follow clippy suggestions
+
+**Challenge 4: Polish** ⏱️ 20 min (optional)
+- Add documentation
+- Write tests
+- Handle all edge cases
+
+### 🎯 Your Learning Journey
+
+**Phase 1: Safe Foundations (Ex 84-150)**
+- Master Option and Result
+- Learn safe string/collection handling
+- Build panic-free code reflexes
+
+**Phase 2: Idiomatic Patterns (Ex 151-350)**
+- Advanced error handling
+- Ownership patterns
+- Professional Rust style
+
+**Phase 3: Production Ready (Ex 351-600)**
+- Real-world architecture
+- Testing strategies
+- Complete CLI applications
+
+### 💡 How to Use This Course
+
+#### ✅ Do This:
+1. **Read the "Why" section** - Understand trade-offs
+2. **Try the beginner approach** - Get it working first
+3. **Study the idiomatic version** - Learn professional patterns
+4. **Run `cargo clippy`** - Automatic code review
+5. **Complete the challenges** - Deepen understanding
+6. **Test edge cases** - Think like a pro
+
+#### ❌ Avoid This:
+- Skipping safety warnings
+- Copy-pasting without understanding
+- Ignoring clippy suggestions
+- Rushing through challenges
+- Only doing the "quick way"
+
+### 🏆 What You'll Achieve
+
+By Exercise 600, you will:
+- ✅ Write **panic-free** Rust code naturally
+- ✅ Handle **errors** like a professional
+- ✅ Use **idiomatic patterns** by default
+- ✅ Pass **clippy** with zero warnings
+- ✅ Build **production-ready** CLI tools
+- ✅ **Understand "why"**, not just "what"
+
+### 🚀 Ready to Level Up?
+
+**Start with Exercise 84** and experience the difference! 🦀
 
 ---
 

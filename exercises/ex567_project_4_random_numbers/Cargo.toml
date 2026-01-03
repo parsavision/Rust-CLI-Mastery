@@ -1,0 +1,6 @@
+[package]
+name = "ex567_project_4_random_numbers"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

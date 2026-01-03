@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex418_default_from_env/target/debug/ex418_default_from_env: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex418_default_from_env/src/main.rs

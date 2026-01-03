@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex376_get_file_metadata/target/debug/ex376_get_file_metadata: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex376_get_file_metadata/src/main.rs

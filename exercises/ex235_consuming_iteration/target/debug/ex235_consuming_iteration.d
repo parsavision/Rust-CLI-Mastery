@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex235_consuming_iteration/target/debug/ex235_consuming_iteration: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex235_consuming_iteration/src/main.rs

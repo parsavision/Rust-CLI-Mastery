@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex189_find_first_match/target/debug/ex189_find_first_match: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex189_find_first_match/src/main.rs

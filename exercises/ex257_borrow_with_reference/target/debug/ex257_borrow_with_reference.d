@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex257_borrow_with_reference/target/debug/ex257_borrow_with_reference: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex257_borrow_with_reference/src/main.rs

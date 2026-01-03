@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex103_function_with_parameter/target/debug/ex103_function_with_parameter: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex103_function_with_parameter/src/main.rs

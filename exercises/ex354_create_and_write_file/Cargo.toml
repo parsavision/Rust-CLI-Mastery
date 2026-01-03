@@ -1,0 +1,6 @@
+[package]
+name = "ex354_create_and_write_file"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

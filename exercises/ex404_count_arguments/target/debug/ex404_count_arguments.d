@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex404_count_arguments/target/debug/ex404_count_arguments: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex404_count_arguments/src/main.rs

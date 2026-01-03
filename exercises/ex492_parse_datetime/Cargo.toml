@@ -1,0 +1,6 @@
+[package]
+name = "ex492_parse_datetime"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

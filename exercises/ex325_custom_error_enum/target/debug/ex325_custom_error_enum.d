@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex325_custom_error_enum/target/debug/ex325_custom_error_enum: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex325_custom_error_enum/src/main.rs

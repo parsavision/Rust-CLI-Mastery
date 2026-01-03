@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex477_progress_bar_styling/target/debug/ex477_progress_bar_styling: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex477_progress_bar_styling/src/main.rs

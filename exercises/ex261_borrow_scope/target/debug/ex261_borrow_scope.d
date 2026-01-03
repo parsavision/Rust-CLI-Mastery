@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex261_borrow_scope/target/debug/ex261_borrow_scope: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex261_borrow_scope/src/main.rs

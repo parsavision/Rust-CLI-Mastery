@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex364_check_if_file_exists/target/debug/ex364_check_if_file_exists: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex364_check_if_file_exists/src/main.rs

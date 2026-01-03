@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex354_create_and_write_file/target/debug/ex354_create_and_write_file: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex354_create_and_write_file/src/main.rs

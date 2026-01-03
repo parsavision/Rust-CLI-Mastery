@@ -1,0 +1,6 @@
+[package]
+name = "ex095_print_percentage"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

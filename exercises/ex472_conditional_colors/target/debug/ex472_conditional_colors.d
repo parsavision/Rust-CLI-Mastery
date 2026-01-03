@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex472_conditional_colors/target/debug/ex472_conditional_colors: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex472_conditional_colors/src/main.rs

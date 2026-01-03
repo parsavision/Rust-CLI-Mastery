@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex408_parse_arg_as_number/target/debug/ex408_parse_arg_as_number: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex408_parse_arg_as_number/src/main.rs

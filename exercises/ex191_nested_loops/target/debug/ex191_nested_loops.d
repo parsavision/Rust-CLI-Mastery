@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex191_nested_loops/target/debug/ex191_nested_loops: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex191_nested_loops/src/main.rs

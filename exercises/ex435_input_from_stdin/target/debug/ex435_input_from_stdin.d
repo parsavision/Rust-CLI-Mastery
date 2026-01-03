@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex435_input_from_stdin/target/debug/ex435_input_from_stdin: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex435_input_from_stdin/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex595_project_18_sql_execution/target/debug/ex595_project_18_sql_execution: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex595_project_18_sql_execution/src/main.rs

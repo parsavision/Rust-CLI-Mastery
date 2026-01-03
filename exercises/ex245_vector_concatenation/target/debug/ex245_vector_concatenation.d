@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex245_vector_concatenation/target/debug/ex245_vector_concatenation: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex245_vector_concatenation/src/main.rs

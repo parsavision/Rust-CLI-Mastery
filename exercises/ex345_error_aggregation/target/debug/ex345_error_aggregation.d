@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex345_error_aggregation/target/debug/ex345_error_aggregation: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex345_error_aggregation/src/main.rs

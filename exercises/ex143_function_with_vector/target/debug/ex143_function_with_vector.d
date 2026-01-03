@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex143_function_with_vector/target/debug/ex143_function_with_vector: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex143_function_with_vector/src/main.rs

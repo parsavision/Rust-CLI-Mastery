@@ -1,0 +1,6 @@
+[package]
+name = "ex275_drop_and_cleanup"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

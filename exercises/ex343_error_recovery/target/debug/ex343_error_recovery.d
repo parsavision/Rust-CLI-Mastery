@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex343_error_recovery/target/debug/ex343_error_recovery: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex343_error_recovery/src/main.rs

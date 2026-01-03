@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex441_debug_output/target/debug/ex441_debug_output: /home/parsavisions/Desktop/github/Rust-CLI-Mastery/exercises/ex441_debug_output/src/main.rs
