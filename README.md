@@ -660,13 +660,13 @@ By Exercise 600, you will:
 - **Concept:** Menu-driven input
 - **Help:** Parse to i32 and check range
 
-### Exercise 83: Input with Units 
+### Exercise 83: Input with Units ✅
 - **Goal:** Parse number, ignore text
 - **Task:** Accept "5kg" and extract 5
 - **Concept:** String manipulation before parse
 - **Help:** Need to extract just number part
 
-### Exercise 84: Split Input 
+### Exercise 84: Split Input ✅
 - **Goal:** Parse multiple values in one line
 - **Task:** Get "5 3" and split into two numbers
 - **Concept:** `.split()` method preview
