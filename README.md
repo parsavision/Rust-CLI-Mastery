@@ -672,7 +672,7 @@ By Exercise 600, you will:
 - **Concept:** `.split()` method preview
 - **Help:** Split by space, parse each part
 
-### Exercise 85: Error Recovery 
+### Exercise 85: Error Recovery ✅
 - **Goal:** Don't crash on bad input
 - **Task:** Use match on parse result instead of expect
 - **Concept:** Graceful error handling preview
